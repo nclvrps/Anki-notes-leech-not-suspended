@@ -1,5 +1,7 @@
 Anki add-on for displaying notes which are tagged "leech" but have no suspended cards
 
+https://ankiweb.net/shared/info/805244924
+
 **Description**
 
 Cards which are answered incorrectly too many times become leeches. When this happens, the note associated with the card receives a "leech" tag, and by default the card is suspended. (Note that Anki lets you configure the Leech Threshold and Leech Action in each deck's Options)
